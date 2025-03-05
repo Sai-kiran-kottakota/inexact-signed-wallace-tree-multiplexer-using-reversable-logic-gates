@@ -1,0 +1,14 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/windos 10/project_c15/project_c15.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/BJN.v,1710397068,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/FG.v,,BJN,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/FG.v,1710396466,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/NOT.v,,FG,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/NOT.v,1710395861,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/PG.v,,NOT,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/PG.v,1710396657,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/TSG_FA.v,,PG,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/TSG_FA.v,1710397291,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/exact_comp.v,,TSG_FA,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/bw_8bit_mul.v,1710397851,verilog,,,,bw_8bit_mul,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/exact_comp.v,1710397439,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/half.v,,exact_comp,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/half.v,1710397174,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/inexact_comp.v,,half,,,,,,,,
+C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/inexact_comp.v,1710397642,verilog,,C:/Users/windos 10/project_c15/project_c15.srcs/sources_1/new/bw_8bit_mul.v,,inexact_comp,,,,,,,,
